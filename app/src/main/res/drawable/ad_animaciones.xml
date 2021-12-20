@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_estrella_24dp">
+    <target
+        android:name="estrella"
+        android:animation="@animator/anima_estrella" />
+</animated-vector>
